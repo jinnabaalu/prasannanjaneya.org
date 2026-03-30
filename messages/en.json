@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "events": "Events",
+    "members": "Members",
+    "bajanaBrundham": "Bajana Brundham",
+    "archakulu": "Archakulu",
+    "executiveBoard": "Executive Board",
+    "devalayaCommittee": "Devalaya Committee",
+    "gallery": "Gallery"
+  },
+  "home": {
+    "metaTitle": "Sri Prassananjaneya Swamy Devalayam",
+    "metaDescription": "Official website of Sri Prassananjaneya Swamy Devalayam. Explore events, donate, and learn about our temple.",
+    "heroTitle": "Sri Prassananjaneya Swamy Devalayam",
+    "heroSubtitle": "Blessings of Lord Hanuman",
+    "slide1Title": "Bakthi",
+    "slide1Subtitle": "Devotion that transcends all boundaries",
+    "slide2Title": "Bajana",
+    "slide2Subtitle": "Sacred hymns that awaken the soul",
+    "slide3Title": "Veerathwam",
+    "slide3Subtitle": "The valour and strength of Lord Hanuman",
+    "slide4Title": "Vijayam",
+    "slide4Subtitle": "Victory through divine grace and devotion",
+    "aboutTitle": "About the Temple",
+    "activitiesTitle": "Temple Activities & Celebrations",
+    "activity1Title": "Saturday / Tuesday Bajana Keerthanalu",
+    "activity1Desc": "Every Saturday and Tuesday, devotees gather for soulful Bajana and Keerthanalu sessions. Fun activities and games are organized for children, nurturing devotion from a young age.",
+    "activity2Title": "Ugadi Celebrations",
+    "activity2Desc": "Grand Ugadi festivities including Panchanga Shravanam (almanac reading) and the traditional Ugadi Pachadi preparation ceremony, welcoming the Telugu New Year with divine blessings.",
+    "activity3Title": "Varshikothsavam",
+    "activity3Desc": "The annual temple festival celebrated with great grandeur, featuring special pujas, elaborate decorations, cultural programs, and community feasts honoring Lord Anjaneya Swamy.",
+    "activity4Title": "Vinayaka Chavithi & Navaratri",
+    "activity4Desc": "Vibrant Vinayaka Chavithi celebrations with Ganesh idol installation, and nine nights of Navaratri Utsavalu with daily special pujas, cultural events, and devotional programs.",
+    "activity5Title": "Kaarthika Deepothsavam",
+    "activity5Desc": "The sacred Kaarthika Deepothsavam is celebrated with thousands of oil lamps illuminating the temple premises. Devotees light diyas and offer prayers during the holy month of Kaarthikam, creating a divine spectacle of devotion and light.",
+    "quickLinksTitle": "Explore",
+    "latestEventsTitle": "Latest Events",
+    "locationTitle": "Visit Us",
+    "addressLine1": "Sri Prassananjaneya Swamy Devalayam",
+    "addressLine2": "Narsingi, Papannapet, Medak",
+    "addressLine3": "Telangana, India - 502302"
+  },
+  "events": {
+    "metaTitle": "Events - Sri Prassananjaneya Swamy Devalayam",
+    "metaDescription": "Upcoming and past events at Sri Prassananjaneya Swamy Devalayam.",
+    "title": "Temple Events",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "noEvents": "No events to display."
+  },
+  "donations": {},
+  "members": {
+    "bajanaBrundham": {
+      "metaTitle": "Bajana Brundham - Sri Prassananjaneya Swamy Devalayam",
+      "metaDescription": "Meet the Bajana Brundham members of Sri Prassananjaneya Swamy Devalayam.",
+      "title": "Bajana Brundham"
+    },
+    "archakulu": {
+      "metaTitle": "Archakulu - Sri Prassananjaneya Swamy Devalayam",
+      "metaDescription": "Meet the temple priests (Archakulu) of Sri Prassananjaneya Swamy Devalayam.",
+      "title": "Temple Priests (Archakulu)"
+    },
+    "executiveBoard": {
+      "metaTitle": "Executive Board - Sri Prassananjaneya Swamy Devalayam",
+      "metaDescription": "Meet the Executive Board members of Sri Prassananjaneya Swamy Devalayam.",
+      "title": "Executive Board Members"
+    },
+    "devalayaCommittee": {
+      "metaTitle": "Devalaya Committee - Sri Prassananjaneya Swamy Devalayam",
+      "metaDescription": "Meet the Devalaya Committee members of Sri Prassananjaneya Swamy Devalayam.",
+      "title": "Devalaya Committee"
+    }
+  },
+  "gallery": {
+    "metaTitle": "Gallery - Sri Prassananjaneya Swamy Devalayam",
+    "metaDescription": "Photo gallery and videos from Sri Prassananjaneya Swamy Devalayam.",
+    "title": "Media Gallery",
+    "photosTitle": "Photo Gallery",
+    "videosTitle": "YouTube Videos",
+    "watchOnYouTube": "Watch on YouTube",
+    "visitChannel": "Visit our YouTube Channel"
+  },
+  "footer": {
+    "address": "Temple Address",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 Sri Prassananjaneya Swamy Devalayam. All rights reserved."
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "backToHome": "Back to Home"
+  }
+}

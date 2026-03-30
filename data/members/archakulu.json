@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ar-1",
+    "name": { "en": "Sri Vasishtha", "te": "శ్రీ వశిష్ఠుడు" },
+    "role": { "en": "Head Priest", "te": "ప్రధాన అర్చకులు" },
+    "order": 1
+  },
+  {
+    "id": "ar-2",
+    "name": { "en": "Sri Vishwamitra", "te": "శ్రీ విశ్వామిత్రుడు" },
+    "role": { "en": "Priest", "te": "అర్చకులు" },
+    "order": 2
+  },
+  {
+    "id": "ar-3",
+    "name": { "en": "Sri Agastya", "te": "శ్రీ అగస్త్యుడు" },
+    "role": { "en": "Priest", "te": "అర్చకులు" },
+    "order": 3
+  },
+  {
+    "id": "ar-4",
+    "name": { "en": "Sri Bharadwaja", "te": "శ్రీ భరద్వాజుడు" },
+    "role": { "en": "Priest", "te": "అర్చకులు" },
+    "order": 4
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": { "en": "Sri Venkateswara Sharma", "te": "శ్రీ వెంకటేశ్వర శర్మ" },
+    "title": { "en": "Head Priest", "te": "ప్రధాన అర్చకులు" },
+    "bio": {
+      "en": "Serving the temple for over 20 years with deep devotion and knowledge of Vedic rituals.",
+      "te": "వేద క్రతువుల లోతైన భక్తి మరియు జ్ఞానంతో 20 సంవత్సరాలకు పైగా ఆలయ సేవలో."
+    },
+    "order": 1
+  },
+  {
+    "id": "2",
+    "name": { "en": "Sri Surya Prakash Sastry", "te": "శ్రీ సూర్య ప్రకాష్ శాస్త్రి" },
+    "title": { "en": "Priest", "te": "అర్చకులు" },
+    "bio": {
+      "en": "Dedicated to performing daily pujas and special rituals at the temple.",
+      "te": "ఆలయంలో రోజువారీ పూజలు మరియు ప్రత్యేక క్రతువులు నిర్వహించడంలో అంకితమైనవారు."
+    },
+    "order": 2
+  }
+]

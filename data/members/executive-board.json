@@ -1,0 +1,62 @@
+[
+  {
+    "id": "eb-1",
+    "name": { "en": "Sri Rama", "te": "శ్రీ రాముడు" },
+    "role": { "en": "President", "te": "అధ్యక్షుడు" },
+    "order": 1
+  },
+  {
+    "id": "eb-2",
+    "name": { "en": "Sri Lakshmana", "te": "శ్రీ లక్ష్మణుడు" },
+    "role": { "en": "Vice President", "te": "ఉపాధ్యక్షుడు" },
+    "order": 2
+  },
+  {
+    "id": "eb-3",
+    "name": { "en": "Sri Bharata", "te": "శ్రీ భరతుడు" },
+    "role": { "en": "Secretary", "te": "కార్యదర్శి" },
+    "order": 3
+  },
+  {
+    "id": "eb-4",
+    "name": { "en": "Sri Shatrughna", "te": "శ్రీ శత్రుఘ్నుడు" },
+    "role": { "en": "Joint Secretary", "te": "సహ కార్యదర్శి" },
+    "order": 4
+  },
+  {
+    "id": "eb-5",
+    "name": { "en": "Sri Hanuman", "te": "శ్రీ హనుమంతుడు" },
+    "role": { "en": "Treasurer", "te": "కోశాధికారి" },
+    "order": 5
+  },
+  {
+    "id": "eb-6",
+    "name": { "en": "Sri Sugriva", "te": "శ్రీ సుగ్రీవుడు" },
+    "role": { "en": "Joint Treasurer", "te": "సహ కోశాధికారి" },
+    "order": 6
+  },
+  {
+    "id": "eb-7",
+    "name": { "en": "Sri Vibhishana", "te": "శ్రీ విభీషణుడు" },
+    "role": { "en": "Member", "te": "సభ్యుడు" },
+    "order": 7
+  },
+  {
+    "id": "eb-8",
+    "name": { "en": "Sri Angada", "te": "శ్రీ అంగదుడు" },
+    "role": { "en": "Member", "te": "సభ్యుడు" },
+    "order": 8
+  },
+  {
+    "id": "eb-9",
+    "name": { "en": "Sri Jambavan", "te": "శ్రీ జాంబవంతుడు" },
+    "role": { "en": "Member", "te": "సభ్యుడు" },
+    "order": 9
+  },
+  {
+    "id": "eb-10",
+    "name": { "en": "Sri Guha", "te": "శ్రీ గుహుడు" },
+    "role": { "en": "Member", "te": "సభ్యుడు" },
+    "order": 10
+  }
+]

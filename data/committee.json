@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": { "en": "Sri Ramesh Kumar", "te": "శ్రీ రమేష్ కుమార్" },
+    "role": { "en": "President", "te": "అధ్యక్షుడు" },
+    "order": 1
+  },
+  {
+    "id": "2",
+    "name": { "en": "Sri Venkata Subbaiah", "te": "శ్రీ వెంకట సుబ్బయ్య" },
+    "role": { "en": "Vice President", "te": "ఉపాధ్యక్షుడు" },
+    "order": 2
+  },
+  {
+    "id": "3",
+    "name": { "en": "Sri Narayana Reddy", "te": "శ్రీ నారాయణ రెడ్డి" },
+    "role": { "en": "Secretary", "te": "కార్యదర్శి" },
+    "order": 3
+  },
+  {
+    "id": "4",
+    "name": { "en": "Sri Krishna Murthy", "te": "శ్రీ కృష్ణ మూర్తి" },
+    "role": { "en": "Treasurer", "te": "కోశాధికారి" },
+    "order": 4
+  },
+  {
+    "id": "5",
+    "name": { "en": "Sri Srinivasa Rao", "te": "శ్రీ శ్రీనివాస రావు" },
+    "role": { "en": "Member", "te": "సభ్యుడు" },
+    "order": 5
+  },
+  {
+    "id": "6",
+    "name": { "en": "Sri Lakshmi Narasimha", "te": "శ్రీ లక్ష్మీ నరసింహ" },
+    "role": { "en": "Member", "te": "సభ్యుడు" },
+    "order": 6
+  }
+]

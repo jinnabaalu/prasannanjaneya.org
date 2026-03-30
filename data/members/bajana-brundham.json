@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bb-1",
+    "name": { "en": "Sri Narada", "te": "శ్రీ నారదుడు" },
+    "role": { "en": "Lead Singer", "te": "ప్రధాన గాయకుడు" },
+    "order": 1
+  },
+  {
+    "id": "bb-2",
+    "name": { "en": "Sri Tumburu", "te": "శ్రీ తుంబురుడు" },
+    "role": { "en": "Singer", "te": "గాయకుడు" },
+    "order": 2
+  },
+  {
+    "id": "bb-3",
+    "name": { "en": "Sri Jatayu", "te": "శ్రీ జటాయువు" },
+    "role": { "en": "Singer", "te": "గాయకుడు" },
+    "order": 3
+  },
+  {
+    "id": "bb-4",
+    "name": { "en": "Sri Sampati", "te": "శ్రీ సంపాతి" },
+    "role": { "en": "Harmonium", "te": "హార్మోనియం" },
+    "order": 4
+  },
+  {
+    "id": "bb-5",
+    "name": { "en": "Sri Nala", "te": "శ్రీ నలుడు" },
+    "role": { "en": "Tabla", "te": "తబలా" },
+    "order": 5
+  },
+  {
+    "id": "bb-6",
+    "name": { "en": "Sri Neela", "te": "శ్రీ నీలుడు" },
+    "role": { "en": "Mridangam", "te": "మృదంగం" },
+    "order": 6
+  },
+  {
+    "id": "bb-7",
+    "name": { "en": "Sri Sushena", "te": "శ్రీ సుషేణుడు" },
+    "role": { "en": "Singer", "te": "గాయకుడు" },
+    "order": 7
+  },
+  {
+    "id": "bb-8",
+    "name": { "en": "Sri Matanga", "te": "శ్రీ మాతంగుడు" },
+    "role": { "en": "Singer", "te": "గాయకుడు" },
+    "order": 8
+  },
+  {
+    "id": "bb-9",
+    "name": { "en": "Sri Sumanthra", "te": "శ్రీ సుమంత్రుడు" },
+    "role": { "en": "Cymbals", "te": "తాళములు" },
+    "order": 9
+  },
+  {
+    "id": "bb-10",
+    "name": { "en": "Sri Goutama", "te": "శ్రీ గౌతముడు" },
+    "role": { "en": "Singer", "te": "గాయకుడు" },
+    "order": 10
+  },
+  {
+    "id": "bb-11",
+    "name": { "en": "Smt. Shabari", "te": "శ్రీమతి శబరి" },
+    "role": { "en": "Singer", "te": "గాయకురాలు" },
+    "order": 11
+  },
+  {
+    "id": "bb-12",
+    "name": { "en": "Smt. Swayamprabha", "te": "శ్రీమతి స్వయంప్రభ" },
+    "role": { "en": "Singer", "te": "గాయకురాలు" },
+    "order": 12
+  }
+]
