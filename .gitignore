@@ -38,4 +38,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# agent/prompt context files
+AGENTS.md
+CLAUDE.md
+.claude/
 next-env.d.ts
