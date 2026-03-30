@@ -5,6 +5,9 @@ const withNextIntl = createNextIntlPlugin();
 
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  outputFileTracingIncludes: {
+    "/*": ["./content/**/*"],
+  },
 };
 
 export default withNextIntl(nextConfig);
