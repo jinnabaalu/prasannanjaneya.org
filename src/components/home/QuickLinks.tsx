@@ -20,11 +20,11 @@ export default function QuickLinks() {
     <section className="bg-saffron-50 py-16">
       <Container>
         <SectionHeading title={t("home.quickLinksTitle")} />
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
+        <div className="flex flex-wrap justify-center gap-6">
           {links.map((link) => {
             const Icon = link.icon;
             return (
-              <Link key={link.key} href={`/${locale}${link.href}`}>
+              <Link key={link.key} href={`/${locale}${link.href}`} className="w-full sm:w-[calc(50%-12px)] lg:w-[calc(25%-18px)]">
                 <Card className="flex flex-col items-center text-center transition-transform hover:-translate-y-1">
                   <Icon size={40} className={link.color} />
                   <h3 className="mt-4 text-lg font-semibold text-temple-maroon">
