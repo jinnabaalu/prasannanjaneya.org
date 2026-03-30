@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import Container from "@/components/ui/Container";
-import { MapPin, Phone, Mail, PlayCircle } from "lucide-react";
+import { MapPin, Phone, PlayCircle } from "lucide-react";
 
 const navLinks = [
   { key: "home", href: "/home" },
@@ -29,20 +29,16 @@ export default function Footer() {
             <div className="flex gap-2 text-sm text-saffron-100">
               <MapPin size={18} className="mt-0.5 shrink-0" />
               <p>
-                Sri Prassananjaneya Swamy Devalayam
+                {t("home.addressLine1")}
                 <br />
-                Narsingi, Papannapet
+                {t("home.addressLine2")}
                 <br />
-                Medak, Telangana, India - 502302
+                {t("home.addressLine3")}
               </p>
             </div>
             <div className="mt-3 flex items-center gap-2 text-sm text-saffron-100">
               <Phone size={16} className="shrink-0" />
               <span>+91 XXXXX XXXXX</span>
-            </div>
-            <div className="mt-2 flex items-center gap-2 text-sm text-saffron-100">
-              <Mail size={16} className="shrink-0" />
-              <span>info@pabbathianjaneya.org</span>
             </div>
           </div>
 
