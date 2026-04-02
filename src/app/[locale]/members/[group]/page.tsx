@@ -11,7 +11,10 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return validGroups.map((group) => ({ group }));
+  const locales = ["en", "te"];
+  return locales.flatMap((locale) =>
+    validGroups.map((group) => ({ locale, group }))
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
