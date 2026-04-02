@@ -48,7 +48,9 @@
     "title": "Temple Events",
     "upcoming": "Upcoming Events",
     "past": "Past Events",
-    "noEvents": "No events to display."
+    "noEvents": "No events to display.",
+    "backToEvents": "Back to Events",
+    "viewDetails": "View Details"
   },
   "donations": {},
   "members": {

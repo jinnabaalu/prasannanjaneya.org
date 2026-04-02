@@ -1,8 +1,7 @@
 ---
 title: "Hanuman Jayanti Celebrations 2026"
-date: "2026-04-05"
+date: "2026-04-02"
 description: "Grand celebrations for Hanuman Jayanti with special pujas, abhishekam, and cultural programs."
-image: "/images/events/hanuman-jayanti.jpg"
 ---
 
 Join us for the grand Hanuman Jayanti celebrations at Sri Prassananjaneya Swamy Devalayam.

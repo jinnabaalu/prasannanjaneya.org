@@ -5,6 +5,15 @@ const withNextIntl = createNextIntlPlugin();
 
 const nextConfig: NextConfig = {
   reactCompiler: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "res.cloudinary.com",
+        pathname: "/dyibvm2q7/**",
+      },
+    ],
+  },
   outputFileTracingIncludes: {
     "/*": ["./content/**/*"],
   },

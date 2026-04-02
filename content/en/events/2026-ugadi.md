@@ -2,7 +2,6 @@
 title: "Ugadi Celebrations 2026"
 date: "2026-03-29"
 description: "Telugu New Year celebrations with Panchanga Sravanam and special pujas."
-image: "/images/events/ugadi.jpg"
 ---
 
 Celebrate Telugu New Year — Ugadi — at Sri Prassananjaneya Swamy Devalayam.

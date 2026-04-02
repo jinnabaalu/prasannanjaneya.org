@@ -4,5 +4,7 @@ export interface Event {
   date: string;
   description: string;
   image?: string;
+  images?: string[];
+  youtube?: string;
   content: string;
 }
