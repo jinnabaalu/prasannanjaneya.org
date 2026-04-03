@@ -31,13 +31,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const event = getEventBySlug(locale, slug);
   if (!event) return {};
 
+  const ogImage = event.image || "/images/gallery/vigraham.png";
+
   return {
     title: event.title,
     description: event.description,
     openGraph: {
       title: event.title,
       description: event.description,
-      images: event.image ? [event.image] : [],
+      type: "article",
+      locale: locale === "te" ? "te_IN" : "en_IN",
+      images: [{ url: ogImage, width: 1200, height: 630, alt: event.title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: event.title,
+      description: event.description,
+      images: [ogImage],
     },
   };
 }
